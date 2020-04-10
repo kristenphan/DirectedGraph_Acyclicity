@@ -1,6 +1,6 @@
 # Graph: Acyclicity - Checking Consistency of a Computer Science Curriculum
 
-"__Repository Description:__
+__Repository Description:__
 <br/>
 This repository stores the work as part of the Data Structures and Algorithms specialization courses by University California of San Diego. Course URL: https://www.coursera.org/learn/data-structures/. Code in this repository is written by myself, Kristen Phan.
 <br/>
@@ -8,7 +8,6 @@ This repository stores the work as part of the Data Structures and Algorithms sp
 __Assignment Description:__
 <br/>
 Problem Introduction:
-<br/>
 <br/>
 A Computer Science curriculum specifies the prerequisites for each course as a list of courses that should be
 taken before taking this course. You would like to perform a consistency check of the curriculum, that is,
