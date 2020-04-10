@@ -70,5 +70,4 @@ if __name__ == '__main__':
     adj = [[] for _ in range(n)]
     for (a, b) in edges:
         adj[a - 1].append(b - 1)
-    #adj = [[1, 2, 3], [2, 4], [3, 4], [], []]
     print(acyclic(adj))
